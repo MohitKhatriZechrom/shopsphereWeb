@@ -1,0 +1,318 @@
+{
+
+  "Electronics": {
+
+    "Mobiles & Accessories": [
+      "Smartphones",
+      "Feature Phones",
+      "Phone Cases & Covers",
+      "Screen Protectors",
+      "Power Banks",
+      "Chargers & Cables",
+      "Memory Cards",
+      "Mobile Holders"
+    ],
+    "Computers & Laptops": [
+      "Laptops",
+      "Desktops",
+      "Computer Accessories",
+      "Monitors",
+      "Printers & Scanners",
+      "Storage Devices",
+      "Networking Devices"
+    ],
+    "Audio & Video": [
+      "Headphones & Earphones",
+      "Bluetooth Speakers",
+      "Home Theater Systems",
+      "Soundbars",
+      "Microphones",
+      "Camera & Camcorders"
+    ],
+    "Wearables": [
+      "Smart Watches",
+      "Fitness Bands",
+      "Smart Glasses",
+      "VR Headsets"
+    ],
+    "Gaming": [
+      "Gaming Consoles",
+      "Gaming Accessories",
+      "Video Games",
+      "Gaming Chairs"
+    ]
+  },
+  "Fashion": {
+  
+    "Men's Clothing": [
+      "T-Shirts & Polos",
+      "Shirts",
+      "Jeans & Trousers",
+      "Shorts & 3/4ths",
+      "Ethnic Wear",
+      "Winter Wear",
+      "Sportswear",
+      "Innerwear & Sleepwear"
+    ],
+    "Women's Clothing": [
+      "Tops & T-Shirts",
+      "Dresses & Jumpsuits",
+      "Jeans & Jeggings",
+      "Ethnic Wear (Sarees, Kurtas, Lehenga)",
+      "Western Wear",
+      "Lingerie & Sleepwear",
+      "Sportswear",
+      "Winter Wear"
+    ],
+    "Kids' Fashion": [
+      "Boys Clothing",
+      "Girls Clothing",
+      "Infant Wear",
+      "Kids Footwear",
+      "Kids Accessories"
+    ],
+    "Footwear": [
+      "Men's Footwear (Casual, Formal, Sports)",
+      "Women's Footwear (Heels, Flats, Sandals, Sports)",
+      "Kids' Footwear"
+    ],
+    "Accessories": [
+      "Watches",
+      "Bags & Backpacks",
+      "Wallets",
+      "Belts",
+      "Sunglasses",
+      "Jewelry",
+      "Caps & Hats"
+    ]
+  },
+  "Home & Furniture": {
+   
+    "Furniture": [
+      "Sofas",
+      "Chairs",
+      "Tables",
+      "TV Units",
+      "Bed",
+      "Wardrobe",
+      "Mattress",
+      "Dining Sets",
+      "Kitchen Cabinets"
+    ],
+    "Home Decor": [
+      "Wall Decor",
+      "Lighting",
+      "Clocks",
+      "Showpieces",
+      "Cushions & Covers",
+      "Curtains & Blinds",
+      "Carpets & Rugs"
+    ],
+    "Kitchen & Dining": [
+      "Cookware",
+      "Dinnerware",
+      "Tableware",
+      "Cutlery",
+      "Bakeware",
+      "Cooking Utensils",
+      "Kitchen Tools",
+
+      "Kitchen Storage",
+      "Kitchen Appliances"
+    ],
+    "Home Improvement": [
+      "Tools & Hardware",
+      "Electrical Supplies",
+      "Bathroom Fixtures",
+      "Paints & Supplies"
+    ]
+  },
+  "Beauty & Personal Care": {
+
+    "Makeup": [
+      "Face Makeup",
+      "Eye Makeup",
+      "Lip Care",
+      "Nail Care",
+      "Makeup Tools & Brushes"
+    ],
+    "Skincare": [
+      "Face Care",
+      "Body Care",
+      "Hand & Feet Care",
+      "Sunscreen",
+      "Masks & Peels"
+    ],
+    "Haircare": [
+      "Shampoos & Conditioners",
+      "Hair Oils & Serums",
+      "Hair Styling Products",
+      "Hair Colors"
+    ],
+    "Fragrances": ["Perfumes", "Deodorants", "Body Mists"],
+    "Personal Care Appliances": [
+      "Hair Dryers & Straighteners",
+      "Trimmers & Shavers",
+      "Epilators"
+    ],
+    "Men's Grooming": [
+      "Beard Care",
+      "Shaving & Grooming",
+      "Men's Skincare",
+      "Men's Haircare"
+    ]
+  },
+  "Appliances": {
+    "Large Appliances": [
+      "Refrigerators",
+      "Washing Machines",
+      "Air Conditioners",
+      "Microwave Ovens",
+      "Dishwashers",
+      "Water Purifiers"
+    ],
+    "Small Appliances": [
+      "Mixer Grinders",
+      "Juicers",
+      "Electric Kettles",
+      "Toasters & Sandwich Makers",
+      "Irons",
+      "Vacuum Cleaners",
+      "Air Purifiers",
+      "Water Heaters"
+    ]
+  },
+  "Books, Media & Music": {
+    "Books": [
+      "Fiction",
+      "Non-Fiction",
+      "Science Fiction",
+      "Academic & Professional",
+      "Comics & Graphic Novels",
+      "Children's Books"
+    ],
+    "Music": ["Musical Instruments", "Music Accessories"],
+    "Movies & TV Shows": ["DVDs & Blu-rays", "Streaming Devices"],
+    "Stationery": ["Office Supplies", "Art Supplies", "School Supplies"]
+  },
+  "Sports & Fitness": {
+    
+    "Exercise & Fitness": [
+      "Cardio Equipment",
+      "Strength Training",
+      "Yoga & Pilates",
+      "Fitness Accessories"
+    ],
+    "Sports Equipment": [
+      "Football",
+      "Basketball",
+      "Tennis",
+      "Golf",
+      "Running & Walking",
+      "Cycling",
+      "Swimming",
+      "Gym Equipment"
+    ],
+    "Outdoor Recreation": [
+      "Hiking",
+      "Camping",
+      "Fishing",
+      "Hunting",
+      "Climbing",
+      "Snowboarding",
+      "Surfing",
+      "Kayaking",
+      "Cycling",
+      "Adventure Sports"
+    ],
+    "Sports Nutrition": [
+      "Protein Supplements",
+      "Vitamins & Minerals",
+      "Energy Drinks",
+      "Weight Loss Supplements",
+      "Pre-Workout Supplements"
+    ]
+  },
+  "Toys & Baby Products": {
+    "Toys": [
+      "Action Figures",
+      "Playsets",
+      "Dolls",
+      "Puzzles",
+      "Soft Toys",
+      "Board Games",
+      "Remote Control Toys",
+      "Educational Toys",
+      "Outdoor Toys"
+    ],
+    "Baby Care": [
+      "Baby Feeding",
+      "Diapers & Wipes",
+      "Baby Bath & Skin Care",
+      "Baby Health & Safety"
+    ],
+    "Baby Gear": [
+      "Strollers & Prams",
+      "Car Seats",
+      "Baby Carriers",
+      "High Chairs"
+    ]
+  },
+  "Grocery & Gourmet": {
+    "Staples": [
+      "Rice & Grains",
+      "Pulses & Lentils",
+      "Flour & Cereals",
+      "Cooking Oils"
+    ],
+    "Snacks & Beverages": [
+      "Snacks",
+      "Juices & Drinks",
+      "Energy Drinks",
+      "Tea & Coffee",
+      "Candy & Sweets",
+      "Chocolates",
+      "Chips & Namkeen"
+    ],
+    "Packaged Foods": [
+      "Instant Meals",
+      "Sauces & Condiments",
+      "Canned & Jarred Foods"
+    ]
+  },
+  "Automotive": {
+    "Car Accessories": [
+      "Car Electronics",
+      "Car Care",
+      "Interior Accessories",
+      "Exterior Accessories"
+    ],
+    "Bike Accessories": [
+      "Bike Electronics",
+      "Bike Care",
+      "Riding Gear",
+      "Bike Parts"
+    ],
+    "Vehicle Parts": ["Engine Parts", "Body Parts", "Lighting"]
+  },
+  "Pet Supplies": {
+    "Dog Supplies": [
+      "Dog Food",
+      "Dog Treats",
+      "Dog Toys",
+      "Dog Grooming",
+      "Dog Accessories"
+    ],
+    "Cat Supplies": ["Cat Food", "Cat Litter", "Cat Toys", "Cat Grooming"],
+    "Other Pets": ["Fish & Aquatics", "Birds", "Small Animals"]
+  },
+  "Health & Wellness": {
+    "Health Devices": [
+      "BP Monitors",
+      "Glucometers",
+      "Thermometers",
+      "Weighing Scales"
+    ],
+    "Wellness": ["Ayurvedic Products", "Herbal Supplements", "First Aid"]
+  }
+}
